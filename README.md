@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Anderson Santo</h1>
+<h1 align="center">Hi 👋, I'm Anderson Santo</h1>
+
 <h3>A front-end developer passionate about design</h3>
 
 - 🌱 I’m currently learning **Flutter and UI with Figma**

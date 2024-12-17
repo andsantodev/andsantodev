@@ -2,7 +2,7 @@
 
 <h3>A front-end developer passionate about design</h3>
 
-- 🌱 I’m currently learning **Flutter and UI with Figma**
+- 🌱 **FlutterFlow developer** and **UX/UI Design specialist**
 
 - 📫 How to reach me **and.santos123@gmail.com**
 

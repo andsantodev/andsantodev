@@ -22,6 +22,24 @@ Construo interfaces e conecto elas a **automações e agentes de IA** — usando
 
 ## 🌟 Projeto em destaque
 
+### [PromptGuard](https://github.com/andsantodev/projeto_promptguard)
+> [ver projeto ao vivo →](promptguard-coral.vercel.app) · Repositório: https://github.com/andsantodev/projeto_promptguard
+
+Ferramenta de auditoria de segurança para aplicações de IA generativa: submete o System Prompt de um sistema a uma biblioteca de ataques de prompt injection e jailbreaking, retornando uma pontuação de risco (0–100%) e recomendações de mitigação por ataque. Projetei e implementei o fluxo completo — frontend em Next.js com acompanhamento assíncrono do progresso, orquestração dos ataques via n8n (validação de entrada, controle de budget, execução sequencial com avaliação automática por LLM via OpenRouter) e persistência em Supabase.
+
+**Stack:** Next.js · TypeScript · n8n · Supabase · OpenRouter · Segurança de IA · Prompt Engineering
+
+<br>
+
+### [Harness Engineering PRD](https://github.com/andsantodev/harness-engineering-prd)
+> Repositório: https://github.com/andsantodev/harness-engineering-prd
+
+Skill de IA para desenvolvimento assistido por especificações, compatível com Claude e Gemini e distribuída via GitHub para instalação em qualquer CLI/IDE de codificação (Claude Code, Cursor, OpenCode, Codex etc.). Projetei e implementei o fluxo completo: entrevista de alinhamento guiada, geração de PRD com gate de aprovação, e geração automática do pacote de documentos Harness (AGENTS.md, feature-list.json, progress.md, session-handoff.md). Baseado nos princípios do curso Learn Harness Engineering, com foco em rastreabilidade, verificação por evidência e persistência de estado entre sessões.
+
+**Stack:** IA Generativa · Prompt Engineering · PRD/SDD · Automação · Arquitetura de Documentação Técnica
+
+<br>
+
 ### [TatameLocal](https://github.com/andsantodev/tatamelocal)
 > Encontre academias de artes marciais perto de você — [ver projeto ao vivo →](https://tatamelocal.vercel.app)
 
@@ -31,7 +49,7 @@ Nasceu de uma necessidade real como praticante de artes marciais. Vai além do f
 n8n → Apify (Google Maps) → Normalização → Deduplicação → Supabase
 ```
 
-**Stack:** Vue 3 + TypeScript + Tailwind · Supabase · n8n self-hosted + Apify · Vercel
+**Stack:** Vue 3 · TypeScript · Tailwind · Supabase · n8n self-hosted · Apify · Vercel
 
 <br>
 
@@ -59,34 +77,3 @@ n8n → Apify (Google Maps) → Normalização → Deduplicação → Supabase
   <a href="https://www.linkedin.com/in/andersonromao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.behance.net/andersonsanto2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Behance" height="40" /></a>
 </p>
-
-<br>
-
----
-
-<div align="center">
-
-# Hi, I'm Anderson Santo 👋
-
-### Front-end Developer & AI Automation Builder
-
-</div>
-
-I build interfaces with **Vue.js** and connect them to **AI-driven automations** using **n8n** — from the front-end all the way to the workflows that make the product run itself.
-
-## 🧭 About me
-
-- 💻 Front-end developer with 6+ years of experience, MBA in UX
-- ⚙️ Currently combining front-end development with **AI-powered process automation (n8n)**
-- 🛠️ Main stack: **Vue.js**, **n8n**, **Supabase**, **Figma**, **FlutterFlow**
-- 🚀 I like building products end-to-end: interface, database, and the automation that powers it
-- 📫 Reach me at: **and.santos123@gmail.com**
-
-## 🌟 Featured project
-
-### [TatameLocal](https://github.com/andsantodev/tatamelocal)
-> Find martial arts gyms near you — [live project →](https://tatamelocal.vercel.app)
-
-Born out of a real need as a martial arts practitioner. It goes beyond the front-end: it has an **automated data collection pipeline with n8n + Apify** that scrapes gyms from Google Maps, normalizes the data, and populates the database automatically — no manual entry.
-
-**Stack:** Vue 3 + TypeScript + Tailwind · Supabase · self-hosted n8n + Apify · Vercel

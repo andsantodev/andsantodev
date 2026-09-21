@@ -40,7 +40,7 @@ Skill de IA para desenvolvimento assistido por especificações, compatível com
 
 <br>
 
-### [TatameLocal](https://github.com/andsantodev/projeto_tatamelocal) (Privado no momento)
+### [TatameLocal](https://github.com/andsantodev/projeto_tatamelocal) (Repositório privado no momento)
 > Encontre academias de artes marciais perto de você — [ver projeto ao vivo →](https://tatamelocal.vercel.app)
 
 Nasceu de uma necessidade real como praticante de artes marciais. Vai além do front-end: tem uma **pipeline de coleta de dados automatizada com n8n + Apify** que busca academias no Google Maps, normaliza e popula o banco automaticamente, sem inserção manual.

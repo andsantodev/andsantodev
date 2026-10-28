@@ -51,7 +51,7 @@ Nasceu de uma necessidade real como praticante de artes marciais. Vai além do f
 n8n → Apify (Google Maps) → Normalização → Deduplicação → Supabase
 ```
 
-**Stack:** Vue 3 · TypeScript · Tailwind · Supabase · n8n self-hosted · Apify · Vercel
+**Stack:** Next.js · TypeScript · Tailwind · Supabase · n8n self-hosted · Apify · Vercel
 
 <br>
 
@@ -62,7 +62,8 @@ n8n → Apify (Google Maps) → Normalização → Deduplicação → Supabase
   <a href="https://opencode.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode.png" alt="OpenCode" width="40" height="40"/></a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="reactjs" width="40" height="40"/></a>
   <a href="https://www.flutterflow.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d79c0b9-7744-43a9-bae8-8dd92bcb2d54" alt="flutterflow" height="40" style="margin-bottom: -6px"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>

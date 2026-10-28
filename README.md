@@ -2,9 +2,11 @@
 
 # Olá, eu sou Anderson Santo 👋
 
-### Front-end Developer & GenAI Builder
+### Engenheiro de Software | Automação e Integrações com IA Generativa
 
-Construo interfaces e conecto elas a **automações e agentes de IA** — usando **n8n**, IA generativa e ferramentas como **Claude Code** e **OpenCode** para ir do front ao back, incluindo os workflows que fazem o produto funcionar sozinho.
+Desenvolvo produtos digitais há mais de seis anos, unindo código, arquitetura de solução e inteligência artificial, com foco em aplicações web em React e Next.js. Tenho MBA em UX, o que me ajuda a prever problemas de usabilidade, ajustar fluxos e alinhar decisões antes de programar. Isso evita retrabalho e acelera a entrega.
+
+Hoje, atuo principalmente com IA no desenvolvimento de produtos usando React e Next.js, e automação aplicadas à criação e validação de produtos digitais. Monto pipelines no n8n, integro APIs, estruturo especificações (PRD e SDD) antes e durante o desenvolvimento aplicando os testes necessários, controle de versão (Git). Também utilizo gestão de contexto com agentes autônomos como Claude Code e OpenCode.
 
 </div>
 

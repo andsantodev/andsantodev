@@ -25,7 +25,7 @@ Hoje, atuo principalmente com IA no desenvolvimento de produtos usando React e N
 ## 🌟 Projeto em destaque
 
 ### [Acme](https://github.com/andsantodev/projeto_acme)
-> [ver projeto ao vivo →](https://projeto-acme-rag.vercel.app) · Repositório: https://github.com/andsantodev/projeto_acme
+> [ver projeto ao vivo](https://projeto-acme-rag.vercel.app) · Repositório: https://github.com/andsantodev/projeto_acme
 
 Portal interno com assistente de onboarding baseado em RAG, capaz de responder dúvidas a partir de documentos oficiais, citar as fontes utilizadas e encaminhar questões sem resposta para atendimento de TI ou RH. Desenvolvimento do pipeline de RAG com ingestão de Markdown, chunking, embeddings e busca vetorial com pgvector. Implementação de gate de relevância para impedir respostas sem base documental. Criado em Next.js e TypeScript. Autenticação com sessão em cookies HttpOnly e políticas de RLS por perfil. Persistência e gerenciamento da base de conhecimento com Supabase. Automação do pipeline utilizando n8n.
 
@@ -34,7 +34,7 @@ Portal interno com assistente de onboarding baseado em RAG, capaz de responder d
 <br>
 
 ### [PromptGuard](https://github.com/andsantodev/projeto_promptguard)
-> [ver projeto ao vivo →](https://projeto-promptguard.vercel.app/) · Repositório: https://github.com/andsantodev/projeto_promptguard
+> [ver projeto ao vivo](https://projeto-promptguard.vercel.app/) · Repositório: https://github.com/andsantodev/projeto_promptguard
 
 Ferramenta de auditoria de segurança para aplicações de IA generativa: submete o System Prompt de um sistema a uma biblioteca curada de 10 ataques de prompt injection e jailbreaking, retornando uma pontuação de risco (0–100%) e recomendações de mitigação por ataque. Projetei e implementei o fluxo completo — frontend em React com Vite e TypeScript, BFF em FastAPI que mantém as credenciais fora do navegador, execução paralela de uma requisição por ataque com preenchimento progressivo dos cartões, avaliação automática por LLM via OpenRouter com saída estruturada e retry, e cota anônima atômica no Supabase. A auditoria é stateless por desenho: prompt, respostas e vereditos não são persistidos.
 
@@ -52,7 +52,7 @@ Skill de IA para desenvolvimento assistido por especificações, compatível com
 <br>
 
 ### [TatameLocal](https://github.com/andsantodev/projeto_tatamelocal) (Repositório privado)
-> Encontre academias de artes marciais perto de você — [ver projeto ao vivo →](https://tatamelocal.vercel.app)
+> Encontre academias de artes marciais perto de você — [ver projeto ao vivo](https://tatamelocal.vercel.app)
 
 Nasceu de uma necessidade real como praticante de artes marciais. Vai além do front-end: tem uma **pipeline de coleta de dados automatizada com n8n + Apify** que busca academias no Google Maps, normaliza e popula o banco automaticamente, sem inserção manual.
 

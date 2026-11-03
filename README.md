@@ -34,7 +34,7 @@ Portal interno com assistente de onboarding baseado em RAG, capaz de responder d
 <br>
 
 ### [PromptGuard](https://github.com/andsantodev/projeto_promptguard)
-> [ver projeto ao vivo →](https://promptguard-coral.vercel.app/) · Repositório: https://github.com/andsantodev/projeto_promptguard
+> [ver projeto ao vivo →](https://projeto-promptguard.vercel.app/) · Repositório: https://github.com/andsantodev/projeto_promptguard
 
 Ferramenta de auditoria de segurança para aplicações de IA generativa: submete o System Prompt de um sistema a uma biblioteca curada de 10 ataques de prompt injection e jailbreaking, retornando uma pontuação de risco (0–100%) e recomendações de mitigação por ataque. Projetei e implementei o fluxo completo — frontend em React com Vite e TypeScript, BFF em FastAPI que mantém as credenciais fora do navegador, execução paralela de uma requisição por ataque com preenchimento progressivo dos cartões, avaliação automática por LLM via OpenRouter com saída estruturada e retry, e cota anônima atômica no Supabase. A auditoria é stateless por desenho: prompt, respostas e vereditos não são persistidos.
 
